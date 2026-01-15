@@ -46,9 +46,10 @@ My focus is on writing clean, scalable code and turning ideas into reliable, use
 ## 🧩 GitHub Stats  
 
 <p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Editorhacker&show_icons=true&theme=tokyonight" />
-  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=Editorhacker&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Editorhacker&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Editorhacker&theme=tokyonight" />
 </p>
+
 
 ---
 
