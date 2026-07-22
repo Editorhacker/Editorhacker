@@ -12,7 +12,7 @@ I build full-stack web applications and explore cloud infrastructure, with hands
 - 💼 Previously Full-Stack Engineer at **AEROZONE**
 - 🏗️ Building with **React.js**, **Next.js**, **Node.js**, and **TypeScript**
 - ☁️ **AWS Certified Cloud Practitioner** · **AWS re/Start** graduate
-- 🌐 Portfolio: [aditya-sutar.vercel.app](https://adisutar.c0der.workers.dev/)
+- 🌐 Portfolio: [adisutar.c0der.workers.dev](https://adisutar.c0der.workers.dev/)
 - 🤝 Open to collaborating on full-stack and cloud-focused projects
 
 ---
