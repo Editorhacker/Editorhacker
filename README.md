@@ -1,6 +1,6 @@
 # Hi, I'm Aditya Bhikaji Sutar 👋
 
-☁️ **Cloud Computing Intern @ Codec Technologies India** · 💻 **Full-Stack Developer** · 🎓 **CS Graduate**
+☁️ **Cloud Computing Intern ** · 💻 **Full-Stack Developer** · 🎓 **CS Graduate**
 
 I build full-stack web applications and explore cloud infrastructure, with hands-on experience across AWS, GCP, and modern JavaScript frameworks.
 
