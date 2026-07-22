@@ -1,79 +1,55 @@
-# Hi, I’m **Editorhacker** 👋  
+# Hi, I'm Aditya Bhikaji Sutar 👋
 
-💻 **Developer · AI Enthusiast · Open-Source Contributor**
+☁️ **Cloud Computing Intern @ Codec Technologies India** · 💻 **Full-Stack Developer** · 🎓 **CS Graduate**
 
-I enjoy building **modern web applications**, developing **AI-powered tools**, and contributing to the **open-source ecosystem**.  
-My focus is on writing clean, scalable code and turning ideas into reliable, user-friendly products—ranging from full-stack platforms to automation and AI experiments.
-
----
-
-## 🚀 About Me  
-
-- 🧠 Exploring **AI/ML**, **automation**, and **full-stack development**
-- 🌐 Passionate about clean **UI/UX**, accessibility, and performance
-- 🛠 Hands-on with **React**, **Next.js**, **Node.js**, and **Python**
-- 🤝 Open to collaboration on **AI-driven** and **developer tooling** projects
-- 💬 Happy to discuss **JavaScript**, **APIs**, and **open-source workflows**
+I build full-stack web applications and explore cloud infrastructure, with hands-on experience across AWS, GCP, and modern JavaScript frameworks.
 
 ---
 
-## 🧰 Tech Stack  
+## 🚀 About Me
 
-### Languages  
-`JavaScript` · `Python` · `HTML` · `CSS` · `SQL`
-
-### Frameworks & Tools  
-`React` · `Next.js` · `Node.js` · `Express` · `MongoDB` · `Git` · `Docker` · `Tailwind CSS`
-
-### AI & Data  
-`TensorFlow` · `OpenAI API` · `LangChain` · `Pandas` · `NumPy`
+- ☁️ Cloud Computing Intern at **Codec Technologies India**
+- 💼 Previously Full-Stack Engineer at **AEROZONE**
+- 🏗️ Building with **React.js**, **Next.js**, **Node.js**, and **TypeScript**
+- ☁️ **AWS Certified Cloud Practitioner** · **AWS re/Start** graduate
+- 🌐 Portfolio: [aditya-sutar.vercel.app](https://aditya-sutar.vercel.app/)
+- 🤝 Open to collaborating on full-stack and cloud-focused projects
 
 ---
 
-## 📦 Featured Projects  
+## 🧰 Tech Stack
+
+**Languages:** `JavaScript` · `TypeScript` · `HTML` · `CSS` · `SQL`
+
+**Frameworks & Tools:** `React` · `Next.js` · `Node.js` · `Express` · `Tailwind CSS` · `Git`
+
+**Cloud:** `AWS` · `Google Cloud Platform (GCP)`
+
+---
+
+## 📦 Featured Projects
 
 | Project | Description | Tech Stack |
-|--------|------------|------------|
-| **AI-Assistant** | Conversational AI assistant powered by OpenAI | Python, FastAPI, LangChain |
-| **WebTools** | A curated collection of utilities for developers | Next.js, Tailwind CSS |
-| **SpeechReco** | Real-time speech recognition web app | JavaScript, Web Speech API |
-| **Portfolio** | Personal portfolio showcasing projects and skills | React, Framer Motion |
-
-> 🔗 Replace the placeholder links with your actual repository URLs when ready.
+|---|---|---|
+| **[Aerozone3.1](https://github.com/Editorhacker/Aerozone3.1)** | Full-stack web platform built during my role at AEROZONE | JavaScript |
+| **[Invoice](https://github.com/Editorhacker/Invoice)** | Invoice generator app for creating and managing invoices | Next.js, TypeScript, Tailwind CSS |
+| **[ART-Photo-Studio](https://github.com/Editorhacker/ART-Photo-Studio)** | Website for a photo studio business | CSS |
+| **[Portfolio](https://github.com/Editorhacker/Portfolio)** | My personal portfolio showcasing projects and skills | JavaScript |
 
 ---
 
-## 🧩 GitHub Stats  
+## 📊 GitHub Stats
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Editorhacker&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Editorhacker&theme=tokyonight" />
-</p>
-
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Editorhacker&show_icons=true&theme=tokyonight&cache_seconds=1800)](https://github.com/Editorhacker)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Editorhacker&theme=tokyonight)](https://github.com/Editorhacker)
 
 ---
 
-## 🌱 Currently Learning  
+## 📫 Connect With Me
 
-- 🦀 **Rust** for systems-level performance  
-- ⚡ **Next.js 15** and **React Server Components**  
-- 🧠 Advanced **prompt engineering** and **AI pipelines**
-
----
-
-## 📫 Connect With Me  
-
-<p align="left">
-  <a href="https://github.com/Editorhacker">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aditya-sutar">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aditya-sutar.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sutar)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Editorhacker)
 
 ---
 
