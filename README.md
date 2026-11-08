@@ -1,56 +1,115 @@
-# Hi, I'm Aditya Bhikaji Sutar 👋
+<div align="center">
 
-☁️ **Cloud Computing Intern** · 💻 **Full-Stack Developer** · 🎓 **CS Graduate**
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · editorhacker</sub></p>
+<h1>Aditya Bhikaji Sutar</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Thane </sub></p>
+<p><a href="https://github.com/editorhacker">GitHub</a> &nbsp;·&nbsp; <a href="https://adisutar.c0der.workers.dev/">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/94226999?u=83f6b6b346094ff85b4237d43f8539ae90d8f5fa&amp;v=4" width="180" alt="Aditya Bhikaji Sutar GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-I build full-stack web applications and explore cloud infrastructure, with hands-on experience across AWS, GCP, and modern JavaScript frameworks.
+<h2>What teams can evaluate quickly</h2>
 
----
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · JavaScript · CSS</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>34 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>167 contributions · 47 active days</p></td>
+</tr>
+</table>
 
-## 🚀 About Me
+<p><sub>Building useful software and sharing the work in public.</sub></p>
 
-- ☁️ Cloud Computing Intern at **Codec Technologies India**
-- 💼 Previously Full-Stack Engineer at **AEROZONE**
-- 🏗️ Building with **React.js**, **Next.js**, **Node.js**, and **TypeScript**
-- ☁️ **AWS Certified Cloud Practitioner** · **AWS re/Start** graduate
-- 🌐 Portfolio: [adisutar.c0der.workers.dev](https://adisutar.c0der.workers.dev/)
-- 🤝 Open to collaborating on full-stack and cloud-focused projects
+<h2>Proof at a glance</h2>
 
----
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>34</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>167</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>2</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-## 🧰 Tech Stack
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=editorhacker&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F94226999%3Fu%3D83f6b6b346094ff85b4237d43f8539ae90d8f5fa%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=editorhacker&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F94226999%3Fu%3D83f6b6b346094ff85b4237d43f8539ae90d8f5fa%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Aditya Bhikaji Sutar GitHub proof metrics" />
+</picture>
+</p>
 
-**Languages:** `JavaScript` · `TypeScript` · `HTML` · `CSS` · `SQL`
+<h2>Selected work</h2>
 
-**Frameworks & Tools:** `React` · `Next.js` · `Node.js` · `Express` · `Tailwind CSS` · `Git`
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=editorhacker&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F94226999%3Fu%3D83f6b6b346094ff85b4237d43f8539ae90d8f5fa%26v%3D4&repos=editorhacker%2FAerozone3.1%2Ceditorhacker%2FART-Photo-Studio%2Ceditorhacker%2FInvoice%2Ceditorhacker%2FPortfolio&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=editorhacker&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F94226999%3Fu%3D83f6b6b346094ff85b4237d43f8539ae90d8f5fa%26v%3D4&repos=editorhacker%2FAerozone3.1%2Ceditorhacker%2FART-Photo-Studio%2Ceditorhacker%2FInvoice%2Ceditorhacker%2FPortfolio&v=recruiter-projects-1&mode=dark" width="100%" alt="Aditya Bhikaji Sutar selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/Editorhacker/Aerozone3.1">Aerozone3.1</a></h3>
+<p>A selected public project.</p>
+<p><sub>JavaScript · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/Editorhacker/Aerozone3.1">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-**Cloud:** `AWS` · `Google Cloud Platform (GCP)`
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/Editorhacker/ART-Photo-Studio">ART-Photo-Studio</a></h3><p>A selected public project.</p><p><sub>CSS · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Editorhacker/Invoice">Invoice</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Editorhacker/Portfolio">Portfolio</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
----
+<h2>Technical toolkit</h2>
 
-## 📦 Featured Projects
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=editorhacker&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F94226999%3Fu%3D83f6b6b346094ff85b4237d43f8539ae90d8f5fa%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=editorhacker&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F94226999%3Fu%3D83f6b6b346094ff85b4237d43f8539ae90d8f5fa%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Aditya Bhikaji Sutar technology stack" />
+</picture>
+</p>
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| **[Aerozone3.1](https://github.com/Editorhacker/Aerozone3.1)** | Full-stack web platform built during my role at AEROZONE | JavaScript |
-| **[Invoice](https://github.com/Editorhacker/Invoice)** | Invoice generator app for creating and managing invoices | Next.js, TypeScript, Tailwind CSS |
-| **[ART-Photo-Studio](https://github.com/Editorhacker/ART-Photo-Studio)** | Website for a photo studio business | CSS |
-| **[Portfolio](https://github.com/Editorhacker/Portfolio)** | My personal portfolio showcasing projects and skills | JavaScript |
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>47% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>33% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>14% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>3% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>1% of public code</sub></td>
+</tr>
+</table>
 
----
+<h2>Consistency signal</h2>
 
-## 📊 GitHub Stats
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=editorhacker&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F94226999%3Fu%3D83f6b6b346094ff85b4237d43f8539ae90d8f5fa%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=editorhacker&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F94226999%3Fu%3D83f6b6b346094ff85b4237d43f8539ae90d8f5fa%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Aditya Bhikaji Sutar contribution activity" />
+</picture>
+</p>
 
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Editorhacker&show_icons=true&theme=tokyonight&cache_seconds=1800)](https://github.com/Editorhacker)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Editorhacker&theme=tokyonight)](https://github.com/Editorhacker)
+<hr />
 
----
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/editorhacker">GitHub</a><br /><a href="https://adisutar.c0der.workers.dev/">Website</a></td>
+</tr>
+</table>
 
-## 📫 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aditya-sutar.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sutar)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Editorhacker)
-
----
-
-⭐️ *Thanks for stopping by! Feel free to explore my repositories and leave a star if something catches your eye.*
+<p align="center"><sub>Aditya Bhikaji Sutar · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
